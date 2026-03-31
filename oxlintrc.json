@@ -13,6 +13,7 @@
       "allowNullableBoolean": true,
       "allowString": false
     }],
+    
     "@typescript-eslint/switch-exhaustiveness-check": ["error", {
       "allowDefaultCaseForExhaustiveSwitch": false,
       "considerDefaultExhaustiveForUnions": true,
